@@ -1,0 +1,4 @@
+*.class
+test/
+input_box/
+output_box/
